@@ -1,0 +1,6 @@
+@Persistent_HostAddress = http://localhost:5028
+
+GET {{Persistent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
